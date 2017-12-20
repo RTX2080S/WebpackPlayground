@@ -1,2 +1,2 @@
-# WebpackPlayground
-Playground for webpack
+# Webpack Playground
+Playground for Webpack
